@@ -1,3 +1,3 @@
 <?php
-  echo "Hello from Azure App Service 🚀";
+  echo "Hello from Azure App Service Delhi 🚀";
 ?>
