@@ -61,15 +61,13 @@ Open your app in the browser:
 ````
 
 If deployed correctly, you should see your PHP page running 🚀.
-![AZ1](https://github.com/user-attachments/assets/31af1672-29c5-4a30-ba67-3483e2e39bbd)
 
----
 
 ## 📂 Example PHP App
 
 ```php
 <?php
-  echo "Hello from Azure App Service 🚀";
+  echo "Hello from Azure App Service Delhi🚀";
 ?>
 ````
 
@@ -77,22 +75,6 @@ Save as `index.php` and deploy.
 
 ---
 
-## ✅ Key Notes
-
-* The entry file should be named `index.php`.
-* You can deploy updates anytime via Zip, GitHub, or Git.
-* Supports scaling, monitoring, and custom domains.
-
----
-
-## 📖 Documentation
-
-* [Azure App Service Overview](https://learn.microsoft.com/azure/app-service/)
-* [Deploy PHP apps on Azure App Service](https://learn.microsoft.com/azure/app-service/quickstart-php)
-
----
-
-💡 This project is meant for **learning Azure App Service deployment with PHP apps**. You can extend it with MySQL, Docker, or CI/CD pipelines.
 
 ```
 
