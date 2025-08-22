@@ -61,6 +61,7 @@ Open your app in the browser:
 ````
 
 If deployed correctly, you should see your PHP page running 🚀.
+![AZ1](https://github.com/user-attachments/assets/31af1672-29c5-4a30-ba67-3483e2e39bbd)
 
 ---
 
